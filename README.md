@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, prazer, Wesley! 
+## Bem-vindo(a) ao meu perfil, prazer, me chamo Wesley! 
 
  <div>
    <a href="https://github.com/WesleySGG">
